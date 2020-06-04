@@ -1,0 +1,11 @@
+Index: 7
+From: testsobakaseti@mail.ru
+To: mrhomka.com@gmail.com
+Date: Fri, 29 May 2020 12:56:11 +0300
+Subject: 
+
+.
+Hello
+This is a test message.
+
+Attached: icon.png òõò.txt 
